@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **Python, Django** and learning **Golang**
 
-- 📫 How to reach me **https://www.linkedin.com/in/zekeriyasahinavsar**
+- 📫 How to reach me **https://www.linkedin.com/in/**
 
 <p align="left">
 </p>
